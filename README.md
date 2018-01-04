@@ -1,5 +1,5 @@
 # ewbf-miner-btn-edition
-bitcoin gold cuda miner
+bitcoin nano cuda miner
 
 Download Windows BTN Cuda Miner
 Download Linux BTN Cuda Miner
@@ -7,7 +7,7 @@ Writen for pascal gpus but works on cards with at least 1Gb memory, and Compute 
 
 History: Version 0.3.2b - BTN
 
-Added support for Bitcoin Gold
+Added support for Bitcoin Nano
 Version 0.3.2b Increased speed up to 2%, depends on card model. some cards not give any speed changes. Reduced gpu memory usage. Improved stability.
 
 Version 0.3.1b Increased speed up to 4%, depends on card model. some cards not give any speed changes. Minor optimizations.
