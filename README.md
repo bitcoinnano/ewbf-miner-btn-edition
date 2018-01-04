@@ -2,7 +2,7 @@
 bitcoin gold cuda miner
 
 Download Windows BTN Cuda Miner
-
+Download Linux BTN Cuda Miner
 Writen for pascal gpus but works on cards with at least 1Gb memory, and Compute Capability 3 and higher. Miner contain dev fee 2%.
 
 History: Version 0.3.2b - BTN
