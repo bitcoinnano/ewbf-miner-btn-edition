@@ -1,8 +1,8 @@
 # ewbf-miner-btn-edition
 bitcoin nano cuda miner
 
-Download Windows BTN Cuda Miner
-Download Linux BTN Cuda Miner
+Download Windows BTN Cuda Miner  https://www.btcnano.org/downloads/BTN-nVidia.miner.0.3.4b.rar
+Download Linux BTN Cuda Miner   https://www.btcnano.org/downloads/BTN-nVidia.miner.0.3.4b.Linux.Bin.rar
 Writen for pascal gpus but works on cards with at least 1Gb memory, and Compute Capability 3 and higher. Miner contain dev fee 2%.
 
 History: Version 0.3.2b - BTN
