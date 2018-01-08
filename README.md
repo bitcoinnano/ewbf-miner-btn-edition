@@ -1,7 +1,7 @@
 # ewbf-miner-btn-edition
 bitcoin nano cuda miner
 
-[Download Windows BTN Nvidia Miner](  https://www.btcnano.org/downloads/BTN-nVidia.miner.0.3.4b.rar)
+[Download Windows BTN Nvidia Miner] (https://www.btcnano.org/downloads/BTN-nVidia.miner.0.3.4b.rar)
 
 [Download Linux BTN Nvidia Miner] (https://www.btcnano.org/downloads/BTN-nVidia.miner.0.3.4b.Linux.Bin.rar)
 
